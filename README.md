@@ -1,0 +1,1 @@
+This program is designed to mimic an 'Etch-A-Sketch' on a website. 
